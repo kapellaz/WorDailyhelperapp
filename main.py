@@ -178,7 +178,4 @@ def main():
                 lista_de_palavras_possiveis = letra_correta(lista_de_palavras_possiveis, 7, ultima.upper())
 
 
-
-
 main()
-#gerir_dicionario("dicionariofull.txt", "palavrastodas.txt")
